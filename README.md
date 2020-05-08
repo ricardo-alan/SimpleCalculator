@@ -22,6 +22,10 @@ I invite you as well to see my [YouTube Tutorial](https://www.youtube.com/watch?
 
 You can also open dist/Calculadora.jar 
 
+## Thanks
+
+Many thanks to [Wenhui Yu](https://dribbble.com/whyinteraction) for the base design.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
